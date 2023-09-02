@@ -1,3 +1,5 @@
+--  This query is used to return the total revenue and total customers by country 
+
 SELECT 
   F.country, 
   COUNT(distinct A.customer_id) AS total_customers, 
