@@ -1,3 +1,5 @@
+--  This query uses Common Table Expressions and Joins to combine the top and bottom 10 performing titles the respective genre and revenue
+
 WITH temp AS (
   SELECT 
     A.title, 
