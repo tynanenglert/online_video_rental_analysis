@@ -1,3 +1,5 @@
+--  This query is used to return the total revenue by genre 
+
 SELECT 
   A.name, 
   SUM(E.amount) AS total_revenue 
