@@ -1,20 +1,8 @@
 # Rockbuster Stealth LLC Data Analysis Project
 
-In response to intense competition from streaming services like Netflix and Amazon Prime, the Rockbuster Stealth management team has decided to leverage its extensive movie licenses to launch an online video rental service, aiming to maintain competitiveness.
-
-## Table of Contents
-
-- [Project Overview](#project-overview)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Data Sources](#data-sources)
-- [Directory Structure](#directory-structure)
-- [Dependencies](#dependencies)
-- [Configuration](#configuration)
-- [License](#license)
-- [Contributing](#contributing)
-
 ## Project Overview
+
+In response to intense competition from streaming services like Netflix and Amazon Prime, the Rockbuster Stealth management team has decided to leverage its extensive movie licenses to launch an online video rental service, aiming to maintain competitiveness.
 
 This task involved loading all of the data into postGre and using SQL to analyze the data to provide data-driven answers to ad-hoc business questions posed by different departments.
 
