@@ -1,3 +1,5 @@
+--  This query is used to retrun the minimum, maximum, and average of all relevant quantitative variables
+
 SELECT 
   MIN(rental_duration) AS min_rental_duration, 
   MAX(rental_duration) AS max_rental_duration, 
