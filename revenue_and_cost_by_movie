@@ -1,3 +1,5 @@
+--  This query is used to return the replacement cost and total revenue by movie title
+
 SELECT 
   A.title, 
   A.replacement_cost, 
