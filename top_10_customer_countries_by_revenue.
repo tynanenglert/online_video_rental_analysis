@@ -1,3 +1,5 @@
+--  This query is used to return the top 10 countries by total customers and revenue
+
 SELECT 
   F.country, 
   COUNT(distinct A.customer_id) AS total_customers, 
