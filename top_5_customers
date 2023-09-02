@@ -1,3 +1,5 @@
+--  This query is used to return the name, country, city, and total amount paid of the top 5 revenue-generating customers
+
 SELECT 
   CONCAT(B.first_name, ' ', B.last_name) AS cust_name, 
   E.country, 
